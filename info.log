@@ -1,0 +1,55 @@
+{"message":"bookmark with id 3c40603d-3f48-401d-a9b7-982b15bac3ce created","level":"info"}
+{"message":"bookmark with id 47531a41-4667-4d99-901c-6854706de98f created","level":"info"}
+{"message":"bookmark with id 62f90ce4-2f1a-42ff-8ff7-3b32664ff4c0 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5af3e2b5-a105-4a4f-85f9-e0b64c663865","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5af3e2b5-a105-4a4f-85f9-e0b64c663865","level":"error"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"bookmark with id 5af3e2b5-a105-4a4f-85f9-e0b64c663865 deleted.","level":"info"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"bookmark with id 7afcf540-bd38-49a4-9eea-fede463f4d59 created","level":"info"}
+{"message":"URL must include http:// or https://","level":"error"}
+{"message":"bookmark with id b64473ed-951b-4e96-a286-4ef8ef5d9356 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/84df69ef-6ffe-4969-9671-147f7c2e9ba2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/84df69ef-6ffe-4969-9671-147f7c2e9ba2","level":"error"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"bookmark with id 84df69ef-6ffe-4969-9671-147f7c2e9ba2 deleted.","level":"info"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Rating must be between 1 and 5","level":"error"}
+{"message":"URL must include http:// or https://","level":"error"}
+{"message":"bookmark with id 2cf37a76-c119-4c9c-ac48-36ab76d3eb9d created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e177d8f6-a8b1-4e65-b316-42c27a235bc8","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e177d8f6-a8b1-4e65-b316-42c27a235bc8","level":"error"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"bookmark with id e177d8f6-a8b1-4e65-b316-42c27a235bc8 deleted.","level":"info"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Rating must be between 1 and 5","level":"error"}
+{"message":"URL must include http:// or https://","level":"error"}
+{"message":"bookmark with id 79e1cd35-a9d4-4645-b257-c64b81342283 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/f19cb4b8-c58f-4f47-9ccd-5623859dc6fa","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/f19cb4b8-c58f-4f47-9ccd-5623859dc6fa","level":"error"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"bookmark with id f19cb4b8-c58f-4f47-9ccd-5623859dc6fa deleted.","level":"info"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Rating must be between 1 and 5","level":"error"}
+{"message":"URL must include http:// or https://","level":"error"}
+{"message":"bookmark with id 1a4e5926-3e68-4320-a18f-53929744a96e created","level":"info"}
