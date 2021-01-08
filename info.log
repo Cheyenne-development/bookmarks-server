@@ -53,3 +53,16 @@
 {"message":"Rating must be between 1 and 5","level":"error"}
 {"message":"URL must include http:// or https://","level":"error"}
 {"message":"bookmark with id 1a4e5926-3e68-4320-a18f-53929744a96e created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/0ee2e4cc-1ae3-42f9-901b-03e4b627abda","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/0ee2e4cc-1ae3-42f9-901b-03e4b627abda","level":"error"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"bookmark with id 0ee2e4cc-1ae3-42f9-901b-03e4b627abda deleted.","level":"info"}
+{"message":"bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Rating must be between 1 and 5","level":"error"}
+{"message":"URL must include http:// or https://","level":"error"}
+{"message":"bookmark with id c223199f-a591-4540-9f75-7784fcbe383e created","level":"info"}
